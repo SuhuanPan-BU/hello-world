@@ -1,2 +1,1 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
+A bit about myself: I have 2 cats, 1 dog and 10 hens.
